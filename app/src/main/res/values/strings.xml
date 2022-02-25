@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Free Fall</string>
+    <string name="unknown_error">Something went wrong :(</string>
+    <string name="cannot_found_data">Can\'t found data.</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="empty_msg">You didn\'t fall your phone yet ;)</string>
+    <string name="alert_title_msg_free_fall">Take care of your phone :/</string>
+    <string name="free_fall_detection">Free Fall Detection</string>
+    <string name="free_fall_detection_service">Free Fall Detection Service</string>
 </resources>
